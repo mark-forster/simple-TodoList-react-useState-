@@ -1,0 +1,14 @@
+.todoEmptyList{
+    color:red;
+}
+.lists{
+    background: aqua;
+    padding: 10px 40px;
+    margin: 10px 550px;
+    
+}
+.items{
+    float:left;
+    
+}
+

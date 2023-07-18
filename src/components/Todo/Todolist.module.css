@@ -1,0 +1,21 @@
+.todoHeader{
+    font-size: 50px;
+    color: red;
+}
+.todoForm{
+    padding: 30px;
+    border: 3px solid aquamarine;
+    margin: 10px 550px;
+}
+.todoInput{
+    padding: 10px 40px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.todoButton{
+   padding: 10px;
+    margin-left: 10px;
+    border: 2px solid blue;
+    border-radius: 5px;
+
+}
